@@ -6,7 +6,7 @@ Data Visualization: explorando com Seaborn
 | :sparkles: Nome:       | Data Visualization: explorando com Seaborn
 | :date: Data:    | 20/02/2023
 | :label: Tecnologias:| Python, Seaborn, Google Colab
-| :rocket: URL:        | https://christianalencar.github.io/EAD-Gorjetas
+| :rocket: URL:        | https://christianalencar.github.io/EDA-Gorjetas/
 | :fire: Curso:    | Python para Data Science
 
 
